@@ -10,3 +10,13 @@
 section {
   padding-top: 5rem;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.card-text p {
+  margin: 0;
+  text-indent: 5rem;
+  text-align: justify;
+}
