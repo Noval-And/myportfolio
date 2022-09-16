@@ -20,3 +20,7 @@ html {
   text-indent: 5rem;
   text-align: justify;
 }
+
+.text-justify {
+  text-align: justify;
+}
